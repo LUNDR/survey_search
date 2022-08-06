@@ -1,1 +1,2 @@
-tabula
+tabula-py
+pycountry
